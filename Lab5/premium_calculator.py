@@ -1,4 +1,4 @@
-"""Insurance premium calculator used for Lab 5 static code analysis.\"""
+"""Insurance premim calculator used for Lab 5 static code analysis.\"""
 
 from dataclasses import dataclass
 from datetime import date, datetime
